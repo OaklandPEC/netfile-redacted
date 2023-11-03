@@ -26,5 +26,5 @@ redaction_fields:
   - transaction.tranAdr2
   - transaction.tranZip4
   #filing_activities: []
-  filing_elements: []
+  # filing_elements: []
   elections: []
