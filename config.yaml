@@ -1,3 +1,9 @@
+endpoints:
+  filers: {}
+  filings: {}
+  transactions:
+    parts: All
+  elections: {}
 redaction_fields:
   filers:
   - addressList.[].line1
